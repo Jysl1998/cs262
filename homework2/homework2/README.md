@@ -9,3 +9,7 @@ Projects created in Snack are publicly available, so you can easily share the li
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+
+# Homework Assignment
+
+For this homework my teammates and I did some research and practice on stack navigation. It was a difficult topic to cover, since REACT-Native is constantly changing and updating, therefore took a while to piece things together. 
