@@ -1,0 +1,12 @@
+Is the service RESTful? If not, why not? If so, what key features make it RESTful.
+  - service was RESTful for this homework assignment. The database I used with this 
+  homework assignment was Firebase, where you create a class for the database entering in the config 
+code firebase has created for you. The key features of making this RESTful are 
+  - allows user to access and add in their own input or information
+  - has fast performance and reliability
+  - database can be identified by their URL they create for the programmer to use and connect
+
+What endpoints implement actions that are idempotent? nullipotent?
+  - for idempotent actions, they enter items onto the list (PUT()), no DELETE() though
+  - for nullipotent actions, no matter how many times you refresh the page you will still
+  have the same list 
